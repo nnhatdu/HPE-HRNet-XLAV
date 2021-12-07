@@ -34,7 +34,7 @@ python scripts/extract-keypoints.py --format csv --filename video.mp4
 - Install the required packages:
  ``pip install -r requirements.txt``
 
-- Download the official pre-trained weights from and extract in to "weights" folder:
+- Download the official pre-trained weights from and extract into "weights" folder:
 https://drive.google.com/file/d/1Ns7sm45AcJH2BfZDlnbbSVcsVAp469Xc/view?usp=sharing
 
 - Your folders should look like:
