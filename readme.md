@@ -34,7 +34,7 @@ python scripts/extract-keypoints.py --format csv --filename video.mp4
 - Install the required packages:
  ``pip install -r requirements.txt``
 
-- Download the official pre-trained weights from and extract into "weights" folder:
+- Download and extract the official pre-trained weights from the link below, and bring "pose_higher_hrnet_w32_512.pth" into "weights" folder:
 https://drive.google.com/file/d/1Ns7sm45AcJH2BfZDlnbbSVcsVAp469Xc/view?usp=sharing
 
 - Your folders should look like:
